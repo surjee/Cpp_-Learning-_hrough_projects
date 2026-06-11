@@ -1,0 +1,5 @@
+why  vector<std::unique_ptr<Employee>> staff;  not using object employee but pointer:-
+
+if object then object slicing where base part only saved when derived object created into vector.
+unique_ptr for memory management.
+ c->display(); is polymorphic call as it is virtual in base but not overriden in inherited call but has implimentations of overriden functions.
