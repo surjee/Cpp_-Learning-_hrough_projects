@@ -1,0 +1,5 @@
+here ,
+run time polymorphism
+vector,
+inheritance 
+used.
